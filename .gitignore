@@ -1,0 +1,6 @@
+.sesskey
+.venv
+__pycache__
+
+# Would normally have this in .gitignore, commented for demonstration purposes
+# .vscode
